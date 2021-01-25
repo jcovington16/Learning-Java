@@ -14,5 +14,7 @@ public class Main {
         numbers.maxItem();
         numbers.reverse(arr);
         numbers.print();
+
+        Strings.main();
     }
 }
